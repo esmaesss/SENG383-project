@@ -16,6 +16,7 @@ Takes CSV or Json as input (Common course schedule ● Department curriculum (co
 ### BeePlan - Department Course Scheduler
 
 A PyQt5-based application for generating conflict-free course schedules for university departments.
+<img width="1686" height="1318" alt="image" src="https://github.com/user-attachments/assets/4a1fcebb-edce-48a6-bd6b-9baacb4c40ab" />
 
 #### Features
 

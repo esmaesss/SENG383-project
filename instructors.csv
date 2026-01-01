@@ -1,9 +1,6 @@
-Year,Code,Name,Hours,Instructor
-1,SENG 101,Computer Prog I,3+2,S.Esmelioglu
-1,SENG 102,Computer Prog II,3+2,S.Esmelioglu
-2,SENG 201,Data Structures,3+2,B.Çelikkale
-2,SENG 206,Software Design,3+0,S.K. Tunç
-3,SENG 301,Project Mgmt,2+2,S.K. Tunç
-3,SENG 315,Concurrent Prog,3+0,B.Avenoglu
-4,SENG 426,Formal Methods,4+0,B.Çelikkale
-4,SENG 449,Special Topics,3+0,N.Cağıltay
+Name,MaxTheory
+B.Avenoglu,4
+B.Çelikkale,4
+S.Esmelioglu,4
+S.K. Tunç,4
+N.Cağıltay,4
